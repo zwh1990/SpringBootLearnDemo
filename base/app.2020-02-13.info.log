@@ -1,0 +1,206 @@
+14:04:46.425 INFO  com.zwh.controller.DemoApplication [55] - Starting DemoApplication on DESKTOP-QS5QN2I with PID 19084 (E:\springboot_learn_demo\target\classes started by admin in E:\springboot_learn_demo)
+14:04:46.429 INFO  com.zwh.controller.DemoApplication [651] - No active profile set, falling back to default profiles: default
+14:04:48.401 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+14:04:48.402 INFO  o.a.catalina.core.StandardService [173] - Starting service [Tomcat]
+14:04:48.402 INFO  o.a.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.30]
+14:04:48.403 INFO  o.a.c.core.AprLifecycleListener [173] - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+14:04:48.404 INFO  o.a.c.core.AprLifecycleListener [173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+14:04:48.404 INFO  o.a.c.core.AprLifecycleListener [173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+14:04:48.407 INFO  o.a.c.core.AprLifecycleListener [173] - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+14:04:48.501 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+14:04:49.425 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+14:04:49.459 INFO  com.zwh.controller.DemoApplication [61] - Started DemoApplication in 3.833 seconds (JVM running for 4.59)
+14:04:57.768 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+14:04:57.885 INFO  c.zwh.controller.learnTestController [60] - info 日志
+14:04:57.910 INFO  com.zaxxer.hikari.HikariDataSource [110] - HikariPool-1 - Starting...
+14:04:58.323 INFO  com.zaxxer.hikari.HikariDataSource [123] - HikariPool-1 - Start completed.
+14:11:25.527 INFO  com.zwh.controller.DemoApplication [55] - Starting DemoApplication on DESKTOP-QS5QN2I with PID 18980 (E:\springboot_learn_demo\target\classes started by admin in E:\springboot_learn_demo)
+14:11:25.530 INFO  com.zwh.controller.DemoApplication [651] - No active profile set, falling back to default profiles: default
+14:11:27.700 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+14:11:27.701 INFO  o.a.catalina.core.StandardService [173] - Starting service [Tomcat]
+14:11:27.701 INFO  o.a.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.30]
+14:11:27.703 INFO  o.a.c.core.AprLifecycleListener [173] - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+14:11:27.703 INFO  o.a.c.core.AprLifecycleListener [173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+14:11:27.703 INFO  o.a.c.core.AprLifecycleListener [173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+14:11:27.707 INFO  o.a.c.core.AprLifecycleListener [173] - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+14:11:27.820 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+14:11:28.526 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+14:11:28.555 INFO  com.zwh.controller.DemoApplication [61] - Started DemoApplication in 3.8 seconds (JVM running for 4.454)
+14:11:33.114 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+14:11:33.177 INFO  com.zaxxer.hikari.HikariDataSource [110] - HikariPool-1 - Starting...
+14:11:33.578 INFO  com.zaxxer.hikari.HikariDataSource [123] - HikariPool-1 - Start completed.
+14:16:31.704 INFO  com.zwh.controller.DemoApplication [55] - Starting DemoApplication on DESKTOP-QS5QN2I with PID 17520 (E:\springboot_learn_demo\target\classes started by admin in E:\springboot_learn_demo)
+14:16:31.721 INFO  com.zwh.controller.DemoApplication [651] - No active profile set, falling back to default profiles: default
+14:16:33.842 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+14:16:33.843 INFO  o.a.catalina.core.StandardService [173] - Starting service [Tomcat]
+14:16:33.843 INFO  o.a.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.30]
+14:16:33.845 INFO  o.a.c.core.AprLifecycleListener [173] - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+14:16:33.845 INFO  o.a.c.core.AprLifecycleListener [173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+14:16:33.846 INFO  o.a.c.core.AprLifecycleListener [173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+14:16:33.851 INFO  o.a.c.core.AprLifecycleListener [173] - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+14:16:33.964 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+14:16:34.752 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+14:16:34.787 INFO  com.zwh.controller.DemoApplication [61] - Started DemoApplication in 3.865 seconds (JVM running for 4.471)
+14:16:39.877 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+14:16:39.945 INFO  com.zaxxer.hikari.HikariDataSource [110] - HikariPool-1 - Starting...
+14:16:40.400 INFO  com.zaxxer.hikari.HikariDataSource [123] - HikariPool-1 - Start completed.
+14:18:28.207 INFO  com.zwh.controller.DemoApplication [55] - Starting DemoApplication on DESKTOP-QS5QN2I with PID 17424 (E:\springboot_learn_demo\target\classes started by admin in E:\springboot_learn_demo)
+14:18:28.211 INFO  com.zwh.controller.DemoApplication [651] - No active profile set, falling back to default profiles: default
+14:18:30.551 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+14:18:30.552 INFO  o.a.catalina.core.StandardService [173] - Starting service [Tomcat]
+14:18:30.553 INFO  o.a.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.30]
+14:18:30.556 INFO  o.a.c.core.AprLifecycleListener [173] - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+14:18:30.556 INFO  o.a.c.core.AprLifecycleListener [173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+14:18:30.557 INFO  o.a.c.core.AprLifecycleListener [173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+14:18:30.561 INFO  o.a.c.core.AprLifecycleListener [173] - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+14:18:30.667 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+14:18:31.830 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+14:18:31.898 INFO  com.zwh.controller.DemoApplication [61] - Started DemoApplication in 4.434 seconds (JVM running for 6.043)
+14:18:57.623 INFO  com.zwh.controller.DemoApplication [55] - Starting DemoApplication on DESKTOP-QS5QN2I with PID 116 (E:\springboot_learn_demo\target\classes started by admin in E:\springboot_learn_demo)
+14:18:57.629 INFO  com.zwh.controller.DemoApplication [651] - No active profile set, falling back to default profiles: default
+14:18:59.531 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+14:18:59.532 INFO  o.a.catalina.core.StandardService [173] - Starting service [Tomcat]
+14:18:59.532 INFO  o.a.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.30]
+14:18:59.533 INFO  o.a.c.core.AprLifecycleListener [173] - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+14:18:59.534 INFO  o.a.c.core.AprLifecycleListener [173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+14:18:59.534 INFO  o.a.c.core.AprLifecycleListener [173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+14:18:59.537 INFO  o.a.c.core.AprLifecycleListener [173] - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+14:18:59.642 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+14:19:00.518 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+14:19:00.551 INFO  com.zwh.controller.DemoApplication [61] - Started DemoApplication in 3.522 seconds (JVM running for 4.415)
+14:21:35.034 INFO  com.zwh.controller.DemoApplication [55] - Starting DemoApplication on DESKTOP-QS5QN2I with PID 15552 (E:\springboot_learn_demo\target\classes started by admin in E:\springboot_learn_demo)
+14:21:35.040 INFO  com.zwh.controller.DemoApplication [651] - No active profile set, falling back to default profiles: default
+14:21:37.387 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+14:21:37.388 INFO  o.a.catalina.core.StandardService [173] - Starting service [Tomcat]
+14:21:37.388 INFO  o.a.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.30]
+14:21:37.390 INFO  o.a.c.core.AprLifecycleListener [173] - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+14:21:37.390 INFO  o.a.c.core.AprLifecycleListener [173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+14:21:37.391 INFO  o.a.c.core.AprLifecycleListener [173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+14:21:37.394 INFO  o.a.c.core.AprLifecycleListener [173] - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+14:21:37.528 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+14:21:38.560 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+14:21:38.610 INFO  com.zwh.controller.DemoApplication [61] - Started DemoApplication in 4.473 seconds (JVM running for 5.336)
+14:21:43.174 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+14:24:06.920 INFO  com.zaxxer.hikari.HikariDataSource [110] - HikariPool-1 - Starting...
+14:24:07.545 INFO  com.zaxxer.hikari.HikariDataSource [123] - HikariPool-1 - Start completed.
+14:38:54.457 INFO  com.zaxxer.hikari.HikariDataSource [350] - HikariPool-1 - Shutdown initiated...
+14:38:54.487 INFO  com.zaxxer.hikari.HikariDataSource [352] - HikariPool-1 - Shutdown completed.
+14:39:01.980 INFO  com.zwh.controller.DemoApplication [55] - Starting DemoApplication on DESKTOP-QS5QN2I with PID 17160 (E:\springboot_learn_demo\target\classes started by admin in E:\springboot_learn_demo)
+14:39:01.985 INFO  com.zwh.controller.DemoApplication [651] - No active profile set, falling back to default profiles: default
+14:39:04.781 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+14:39:04.782 INFO  o.a.catalina.core.StandardService [173] - Starting service [Tomcat]
+14:39:04.782 INFO  o.a.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.30]
+14:39:04.784 INFO  o.a.c.core.AprLifecycleListener [173] - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+14:39:04.784 INFO  o.a.c.core.AprLifecycleListener [173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+14:39:04.785 INFO  o.a.c.core.AprLifecycleListener [173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+14:39:04.789 INFO  o.a.c.core.AprLifecycleListener [173] - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+14:39:04.906 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+14:39:05.906 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+14:39:05.952 INFO  com.zwh.controller.DemoApplication [61] - Started DemoApplication in 4.815 seconds (JVM running for 5.605)
+14:39:25.668 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+14:39:25.818 INFO  com.zaxxer.hikari.HikariDataSource [110] - HikariPool-1 - Starting...
+14:39:26.369 INFO  com.zaxxer.hikari.HikariDataSource [123] - HikariPool-1 - Start completed.
+14:39:48.011 INFO  com.zwh.controller.DemoApplication [55] - Starting DemoApplication on DESKTOP-QS5QN2I with PID 21260 (E:\springboot_learn_demo\target\classes started by admin in E:\springboot_learn_demo)
+14:39:48.018 INFO  com.zwh.controller.DemoApplication [651] - No active profile set, falling back to default profiles: default
+14:39:50.721 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+14:39:50.722 INFO  o.a.catalina.core.StandardService [173] - Starting service [Tomcat]
+14:39:50.722 INFO  o.a.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.30]
+14:39:50.726 INFO  o.a.c.core.AprLifecycleListener [173] - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+14:39:50.727 INFO  o.a.c.core.AprLifecycleListener [173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+14:39:50.727 INFO  o.a.c.core.AprLifecycleListener [173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+14:39:50.732 INFO  o.a.c.core.AprLifecycleListener [173] - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+14:39:50.880 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+14:39:52.059 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+14:39:52.120 INFO  com.zwh.controller.DemoApplication [61] - Started DemoApplication in 5.229 seconds (JVM running for 6.733)
+14:39:54.379 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+14:40:17.652 INFO  com.zaxxer.hikari.HikariDataSource [110] - HikariPool-1 - Starting...
+14:40:18.264 INFO  com.zaxxer.hikari.HikariDataSource [123] - HikariPool-1 - Start completed.
+14:40:21.556 INFO  com.zwh.controller.DemoApplication [55] - Starting DemoApplication on DESKTOP-QS5QN2I with PID 8876 (E:\springboot_learn_demo\target\classes started by admin in E:\springboot_learn_demo)
+14:40:21.572 INFO  com.zwh.controller.DemoApplication [651] - No active profile set, falling back to default profiles: default
+14:40:23.831 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+14:40:23.832 INFO  o.a.catalina.core.StandardService [173] - Starting service [Tomcat]
+14:40:23.832 INFO  o.a.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.30]
+14:40:23.833 INFO  o.a.c.core.AprLifecycleListener [173] - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+14:40:23.833 INFO  o.a.c.core.AprLifecycleListener [173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+14:40:23.834 INFO  o.a.c.core.AprLifecycleListener [173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+14:40:23.837 INFO  o.a.c.core.AprLifecycleListener [173] - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+14:40:23.955 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+14:40:24.961 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+14:40:25.012 INFO  com.zwh.controller.DemoApplication [61] - Started DemoApplication in 4.499 seconds (JVM running for 6.094)
+14:44:35.401 INFO  com.zwh.controller.DemoApplication [55] - Starting DemoApplication on DESKTOP-QS5QN2I with PID 15628 (E:\springboot_learn_demo\target\classes started by admin in E:\springboot_learn_demo)
+14:44:35.407 INFO  com.zwh.controller.DemoApplication [651] - No active profile set, falling back to default profiles: default
+14:44:37.933 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+14:44:37.934 INFO  o.a.catalina.core.StandardService [173] - Starting service [Tomcat]
+14:44:37.934 INFO  o.a.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.30]
+14:44:37.936 INFO  o.a.c.core.AprLifecycleListener [173] - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+14:44:37.936 INFO  o.a.c.core.AprLifecycleListener [173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+14:44:37.937 INFO  o.a.c.core.AprLifecycleListener [173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+14:44:37.941 INFO  o.a.c.core.AprLifecycleListener [173] - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+14:44:38.054 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+14:44:38.894 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+14:44:38.925 INFO  com.zwh.controller.DemoApplication [61] - Started DemoApplication in 4.256 seconds (JVM running for 4.959)
+14:44:42.067 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+14:44:42.164 INFO  com.zaxxer.hikari.HikariDataSource [110] - HikariPool-1 - Starting...
+14:44:42.537 INFO  com.zaxxer.hikari.HikariDataSource [123] - HikariPool-1 - Start completed.
+15:00:10.048 INFO  com.zwh.controller.DemoApplication [55] - Starting DemoApplication on DESKTOP-QS5QN2I with PID 14356 (E:\springboot_learn_demo\target\classes started by admin in E:\springboot_learn_demo)
+15:00:10.053 INFO  com.zwh.controller.DemoApplication [651] - No active profile set, falling back to default profiles: default
+15:00:12.175 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+15:00:12.176 INFO  o.a.catalina.core.StandardService [173] - Starting service [Tomcat]
+15:00:12.176 INFO  o.a.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.30]
+15:00:12.177 INFO  o.a.c.core.AprLifecycleListener [173] - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+15:00:12.177 INFO  o.a.c.core.AprLifecycleListener [173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+15:00:12.178 INFO  o.a.c.core.AprLifecycleListener [173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+15:00:12.180 INFO  o.a.c.core.AprLifecycleListener [173] - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+15:00:12.274 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+15:00:13.103 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+15:00:13.138 INFO  com.zwh.controller.DemoApplication [61] - Started DemoApplication in 3.837 seconds (JVM running for 4.502)
+15:00:19.894 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:00:20.001 INFO  com.zaxxer.hikari.HikariDataSource [110] - HikariPool-1 - Starting...
+15:00:20.406 INFO  com.zaxxer.hikari.HikariDataSource [123] - HikariPool-1 - Start completed.
+15:02:03.350 INFO  com.zwh.controller.DemoApplication [55] - Starting DemoApplication on DESKTOP-QS5QN2I with PID 18176 (E:\springboot_learn_demo\target\classes started by admin in E:\springboot_learn_demo)
+15:02:03.356 INFO  com.zwh.controller.DemoApplication [651] - No active profile set, falling back to default profiles: default
+15:02:05.651 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+15:02:05.652 INFO  o.a.catalina.core.StandardService [173] - Starting service [Tomcat]
+15:02:05.652 INFO  o.a.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.30]
+15:02:05.655 INFO  o.a.c.core.AprLifecycleListener [173] - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+15:02:05.655 INFO  o.a.c.core.AprLifecycleListener [173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+15:02:05.655 INFO  o.a.c.core.AprLifecycleListener [173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+15:02:05.659 INFO  o.a.c.core.AprLifecycleListener [173] - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+15:02:05.780 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+15:02:06.765 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+15:02:06.813 INFO  com.zwh.controller.DemoApplication [61] - Started DemoApplication in 4.35 seconds (JVM running for 5.159)
+15:02:07.932 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:04:40.019 INFO  com.zaxxer.hikari.HikariDataSource [110] - HikariPool-1 - Starting...
+15:04:40.508 INFO  com.zaxxer.hikari.HikariDataSource [123] - HikariPool-1 - Start completed.
+15:05:53.916 INFO  com.zaxxer.hikari.HikariDataSource [350] - HikariPool-1 - Shutdown initiated...
+15:05:53.970 INFO  com.zaxxer.hikari.HikariDataSource [352] - HikariPool-1 - Shutdown completed.
+15:05:59.028 INFO  com.zwh.controller.DemoApplication [55] - Starting DemoApplication on DESKTOP-QS5QN2I with PID 9776 (E:\springboot_learn_demo\target\classes started by admin in E:\springboot_learn_demo)
+15:05:59.033 INFO  com.zwh.controller.DemoApplication [651] - No active profile set, falling back to default profiles: default
+15:06:01.230 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+15:06:01.230 INFO  o.a.catalina.core.StandardService [173] - Starting service [Tomcat]
+15:06:01.230 INFO  o.a.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.30]
+15:06:01.232 INFO  o.a.c.core.AprLifecycleListener [173] - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+15:06:01.232 INFO  o.a.c.core.AprLifecycleListener [173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+15:06:01.232 INFO  o.a.c.core.AprLifecycleListener [173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+15:06:01.235 INFO  o.a.c.core.AprLifecycleListener [173] - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+15:06:01.329 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+15:06:02.168 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+15:06:02.197 INFO  com.zwh.controller.DemoApplication [61] - Started DemoApplication in 3.926 seconds (JVM running for 4.603)
+15:06:06.864 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:06:07.010 INFO  com.zaxxer.hikari.HikariDataSource [110] - HikariPool-1 - Starting...
+15:06:07.456 INFO  com.zaxxer.hikari.HikariDataSource [123] - HikariPool-1 - Start completed.
+16:00:43.444 INFO  com.zwh.controller.DemoApplication [55] - Starting DemoApplication on DESKTOP-QS5QN2I with PID 16792 (E:\springboot_learn_demo\target\classes started by admin in E:\springboot_learn_demo)
+16:00:43.449 INFO  com.zwh.controller.DemoApplication [651] - No active profile set, falling back to default profiles: default
+16:00:45.615 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+16:00:45.615 INFO  o.a.catalina.core.StandardService [173] - Starting service [Tomcat]
+16:00:45.616 INFO  o.a.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.30]
+16:00:45.618 INFO  o.a.c.core.AprLifecycleListener [173] - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+16:00:45.618 INFO  o.a.c.core.AprLifecycleListener [173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+16:00:45.618 INFO  o.a.c.core.AprLifecycleListener [173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+16:00:45.621 INFO  o.a.c.core.AprLifecycleListener [173] - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+16:00:45.718 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+16:00:46.521 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+16:00:46.564 INFO  com.zwh.controller.DemoApplication [61] - Started DemoApplication in 3.885 seconds (JVM running for 4.621)
+16:00:55.470 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:00:55.590 INFO  com.zaxxer.hikari.HikariDataSource [110] - HikariPool-1 - Starting...
+16:00:56.089 INFO  com.zaxxer.hikari.HikariDataSource [123] - HikariPool-1 - Start completed.

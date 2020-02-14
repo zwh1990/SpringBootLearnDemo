@@ -1,0 +1,133 @@
+10:18:32.954 INFO  com.zwh.controller.DemoApplication [55] - Starting DemoApplication on DESKTOP-QS5QN2I with PID 8644 (E:\springboot_learn_demo\target\classes started by admin in E:\springboot_learn_demo)
+10:18:32.981 INFO  com.zwh.controller.DemoApplication [651] - No active profile set, falling back to default profiles: default
+10:18:36.764 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+10:18:36.765 INFO  o.a.catalina.core.StandardService [173] - Starting service [Tomcat]
+10:18:36.765 INFO  o.a.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.30]
+10:18:36.767 INFO  o.a.c.core.AprLifecycleListener [173] - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+10:18:36.767 INFO  o.a.c.core.AprLifecycleListener [173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+10:18:36.768 INFO  o.a.c.core.AprLifecycleListener [173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+10:18:36.962 INFO  o.a.c.core.AprLifecycleListener [173] - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+10:18:37.163 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+10:18:38.810 INFO  org.mongodb.driver.cluster [71] - Cluster created with settings {hosts=[127.0.0.1:27017], mode=MULTIPLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+10:18:38.811 INFO  org.mongodb.driver.cluster [71] - Adding discovered server 127.0.0.1:27017 to client view of cluster
+10:18:38.913 INFO  org.mongodb.driver.connection [71] - Opened connection [connectionId{localValue:1, serverValue:8}] to 127.0.0.1:27017
+10:18:38.947 INFO  org.mongodb.driver.cluster [71] - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 3]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=31339600}
+10:18:38.949 INFO  org.mongodb.driver.cluster [71] - Discovered cluster type of STANDALONE
+10:18:39.381 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+10:18:39.444 INFO  com.zwh.controller.DemoApplication [61] - Started DemoApplication in 9.631 seconds (JVM running for 12.106)
+10:18:47.370 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:18:47.560 INFO  com.zaxxer.hikari.HikariDataSource [110] - HikariPool-1 - Starting...
+10:18:50.791 INFO  com.zaxxer.hikari.HikariDataSource [123] - HikariPool-1 - Start completed.
+10:52:07.633 INFO  com.zwh.controller.DemoApplication [55] - Starting DemoApplication on DESKTOP-QS5QN2I with PID 8132 (E:\springboot_learn_demo\target\classes started by admin in E:\springboot_learn_demo)
+10:52:07.638 INFO  com.zwh.controller.DemoApplication [651] - No active profile set, falling back to default profiles: default
+10:52:10.360 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+10:52:10.361 INFO  o.a.catalina.core.StandardService [173] - Starting service [Tomcat]
+10:52:10.361 INFO  o.a.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.30]
+10:52:10.364 INFO  o.a.c.core.AprLifecycleListener [173] - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+10:52:10.364 INFO  o.a.c.core.AprLifecycleListener [173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+10:52:10.364 INFO  o.a.c.core.AprLifecycleListener [173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+10:52:10.367 INFO  o.a.c.core.AprLifecycleListener [173] - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+10:52:10.505 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+10:52:11.601 INFO  org.mongodb.driver.cluster [71] - Cluster created with settings {hosts=[127.0.0.1:27017], mode=MULTIPLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+10:52:11.602 INFO  org.mongodb.driver.cluster [71] - Adding discovered server 127.0.0.1:27017 to client view of cluster
+10:52:11.682 INFO  org.mongodb.driver.connection [71] - Opened connection [connectionId{localValue:1, serverValue:9}] to 127.0.0.1:27017
+10:52:11.754 INFO  org.mongodb.driver.cluster [71] - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 3]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=63025300}
+10:52:11.761 INFO  org.mongodb.driver.cluster [71] - Discovered cluster type of STANDALONE
+10:52:12.068 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+10:52:12.120 INFO  com.zwh.controller.DemoApplication [61] - Started DemoApplication in 5.279 seconds (JVM running for 6.091)
+10:52:39.401 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:52:39.577 INFO  com.zaxxer.hikari.HikariDataSource [110] - HikariPool-1 - Starting...
+10:52:40.091 INFO  com.zaxxer.hikari.HikariDataSource [123] - HikariPool-1 - Start completed.
+10:53:30.716 INFO  com.zwh.controller.DemoApplication [55] - Starting DemoApplication on DESKTOP-QS5QN2I with PID 13576 (E:\springboot_learn_demo\target\classes started by admin in E:\springboot_learn_demo)
+10:53:30.721 INFO  com.zwh.controller.DemoApplication [651] - No active profile set, falling back to default profiles: default
+10:53:34.190 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+10:53:34.190 INFO  o.a.catalina.core.StandardService [173] - Starting service [Tomcat]
+10:53:34.191 INFO  o.a.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.30]
+10:53:34.192 INFO  o.a.c.core.AprLifecycleListener [173] - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+10:53:34.193 INFO  o.a.c.core.AprLifecycleListener [173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+10:53:34.193 INFO  o.a.c.core.AprLifecycleListener [173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+10:53:34.196 INFO  o.a.c.core.AprLifecycleListener [173] - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+10:53:34.306 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+10:53:35.714 INFO  org.mongodb.driver.cluster [71] - Cluster created with settings {hosts=[127.0.0.1:27017], mode=MULTIPLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+10:53:35.716 INFO  org.mongodb.driver.cluster [71] - Adding discovered server 127.0.0.1:27017 to client view of cluster
+10:53:35.860 INFO  org.mongodb.driver.connection [71] - Opened connection [connectionId{localValue:1, serverValue:10}] to 127.0.0.1:27017
+10:53:35.905 INFO  org.mongodb.driver.cluster [71] - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 3]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=42215800}
+10:53:35.906 INFO  org.mongodb.driver.cluster [71] - Discovered cluster type of STANDALONE
+10:53:36.225 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+10:53:36.273 INFO  com.zwh.controller.DemoApplication [61] - Started DemoApplication in 6.33 seconds (JVM running for 8.951)
+10:54:28.405 INFO  com.zwh.controller.DemoApplication [55] - Starting DemoApplication on DESKTOP-QS5QN2I with PID 20276 (E:\springboot_learn_demo\target\classes started by admin in E:\springboot_learn_demo)
+10:54:28.412 INFO  com.zwh.controller.DemoApplication [651] - No active profile set, falling back to default profiles: default
+10:54:30.705 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+10:54:30.706 INFO  o.a.catalina.core.StandardService [173] - Starting service [Tomcat]
+10:54:30.706 INFO  o.a.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.30]
+10:54:30.707 INFO  o.a.c.core.AprLifecycleListener [173] - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+10:54:30.707 INFO  o.a.c.core.AprLifecycleListener [173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+10:54:30.708 INFO  o.a.c.core.AprLifecycleListener [173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+10:54:30.710 INFO  o.a.c.core.AprLifecycleListener [173] - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+10:54:30.868 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+10:54:31.836 INFO  org.mongodb.driver.cluster [71] - Cluster created with settings {hosts=[127.0.0.1:27017], mode=MULTIPLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+10:54:31.836 INFO  org.mongodb.driver.cluster [71] - Adding discovered server 127.0.0.1:27017 to client view of cluster
+10:54:31.927 INFO  org.mongodb.driver.connection [71] - Opened connection [connectionId{localValue:1, serverValue:11}] to 127.0.0.1:27017
+10:54:31.980 INFO  org.mongodb.driver.cluster [71] - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 3]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=44180400}
+10:54:31.982 INFO  org.mongodb.driver.cluster [71] - Discovered cluster type of STANDALONE
+10:54:32.259 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+10:54:32.299 INFO  com.zwh.controller.DemoApplication [61] - Started DemoApplication in 4.743 seconds (JVM running for 5.602)
+10:54:32.762 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+14:54:16.014 INFO  org.mongodb.driver.cluster [76] - Exception in monitor thread while connecting to server 127.0.0.1:27017
+com.mongodb.MongoSocketOpenException: Exception opening socket
+	at com.mongodb.internal.connection.SocketStream.open(SocketStream.java:70)
+	at com.mongodb.internal.connection.InternalStreamConnection.open(InternalStreamConnection.java:128)
+	at com.mongodb.internal.connection.DefaultServerMonitor$ServerMonitorRunnable.run(DefaultServerMonitor.java:131)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.mongodb.internal.connection.SocketStreamHelper.initialize(SocketStreamHelper.java:64)
+	at com.mongodb.internal.connection.SocketStream.initializeSocket(SocketStream.java:79)
+	at com.mongodb.internal.connection.SocketStream.open(SocketStream.java:65)
+	... 3 common frames omitted
+15:02:50.393 INFO  org.mongodb.driver.connection [71] - Opened connection [connectionId{localValue:45, serverValue:1}] to 127.0.0.1:27017
+15:02:50.404 INFO  org.mongodb.driver.cluster [71] - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 3]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=2128600}
+15:50:50.345 INFO  com.zwh.controller.DemoApplication [55] - Starting DemoApplication on DESKTOP-QS5QN2I with PID 332 (E:\springboot_learn_demo\target\classes started by admin in E:\springboot_learn_demo)
+15:50:50.349 INFO  com.zwh.controller.DemoApplication [651] - No active profile set, falling back to default profiles: default
+15:50:52.464 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+15:50:52.465 INFO  o.a.catalina.core.StandardService [173] - Starting service [Tomcat]
+15:50:52.465 INFO  o.a.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.30]
+15:50:52.466 INFO  o.a.c.core.AprLifecycleListener [173] - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+15:50:52.467 INFO  o.a.c.core.AprLifecycleListener [173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+15:50:52.467 INFO  o.a.c.core.AprLifecycleListener [173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+15:50:52.469 INFO  o.a.c.core.AprLifecycleListener [173] - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+15:50:52.577 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+15:50:53.563 INFO  org.mongodb.driver.cluster [71] - Cluster created with settings {hosts=[127.0.0.1:27017], mode=MULTIPLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+15:50:53.564 INFO  org.mongodb.driver.cluster [71] - Adding discovered server 127.0.0.1:27017 to client view of cluster
+15:50:53.641 INFO  org.mongodb.driver.connection [71] - Opened connection [connectionId{localValue:1, serverValue:3}] to 127.0.0.1:27017
+15:50:53.674 INFO  org.mongodb.driver.cluster [71] - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 3]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=32133000}
+15:50:53.676 INFO  org.mongodb.driver.cluster [71] - Discovered cluster type of STANDALONE
+15:50:53.992 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+15:50:54.033 INFO  com.zwh.controller.DemoApplication [61] - Started DemoApplication in 4.388 seconds (JVM running for 5.034)
+16:31:52.621 INFO  com.zwh.controller.DemoApplication [55] - Starting DemoApplication on DESKTOP-QS5QN2I with PID 5408 (E:\springboot_learn_demo\target\classes started by admin in E:\springboot_learn_demo)
+16:31:52.626 INFO  com.zwh.controller.DemoApplication [651] - No active profile set, falling back to default profiles: default
+16:31:54.931 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Initializing ProtocolHandler ["http-nio-8080"]
+16:31:54.932 INFO  o.a.catalina.core.StandardService [173] - Starting service [Tomcat]
+16:31:54.932 INFO  o.a.catalina.core.StandardEngine [173] - Starting Servlet engine: [Apache Tomcat/9.0.30]
+16:31:54.933 INFO  o.a.c.core.AprLifecycleListener [173] - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+16:31:54.933 INFO  o.a.c.core.AprLifecycleListener [173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+16:31:54.934 INFO  o.a.c.core.AprLifecycleListener [173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+16:31:54.937 INFO  o.a.c.core.AprLifecycleListener [173] - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+16:31:55.056 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring embedded WebApplicationContext
+16:31:55.657 INFO  org.mongodb.driver.cluster [71] - Cluster created with settings {hosts=[127.0.0.1:27017], mode=MULTIPLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+16:31:55.658 INFO  org.mongodb.driver.cluster [71] - Adding discovered server 127.0.0.1:27017 to client view of cluster
+16:31:55.729 INFO  org.mongodb.driver.connection [71] - Opened connection [connectionId{localValue:1, serverValue:4}] to 127.0.0.1:27017
+16:31:55.760 INFO  org.mongodb.driver.cluster [71] - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 3]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=28702700}
+16:31:55.762 INFO  org.mongodb.driver.cluster [71] - Discovered cluster type of STANDALONE
+16:31:56.369 INFO  o.a.coyote.http11.Http11NioProtocol [173] - Starting ProtocolHandler ["http-nio-8080"]
+16:31:56.399 INFO  com.zwh.controller.DemoApplication [61] - Started DemoApplication in 4.462 seconds (JVM running for 5.093)
+16:32:07.176 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] [173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:32:07.350 INFO  com.zaxxer.hikari.HikariDataSource [110] - HikariPool-1 - Starting...
+16:32:07.987 INFO  com.zaxxer.hikari.HikariDataSource [123] - HikariPool-1 - Start completed.
